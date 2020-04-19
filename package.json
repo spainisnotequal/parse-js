@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/spainisnotequal/parse-js/issues"
   },
-  "homepage": "https://github.com/spainisnotequal/parse-js#readme"
+  "homepage": "https://github.com/spainisnotequal/parse-js#readme",
+  "dependencies": {
+    "acorn": "^7.1.1"
+  }
 }
